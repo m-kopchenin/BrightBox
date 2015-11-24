@@ -1,0 +1,6 @@
+C:\projects\BrightBox\BrightBox.Web\bin\BrightBox.Web.dll.config
+C:\projects\BrightBox\BrightBox.Web\bin\BrightBox.Web.dll
+C:\projects\BrightBox\BrightBox.Web\bin\BrightBox.Web.pdb
+C:\projects\BrightBox\BrightBox.Web\obj\Debug\BrightBox.Web.csprojResolveAssemblyReference.cache
+C:\projects\BrightBox\BrightBox.Web\obj\Debug\BrightBox.Web.dll
+C:\projects\BrightBox\BrightBox.Web\obj\Debug\BrightBox.Web.pdb
